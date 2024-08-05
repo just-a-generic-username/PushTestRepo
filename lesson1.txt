@@ -1,5 +1,6 @@
-Hola amigo, que pasa?
-Donde esta la biblioteca, me llamo T bone
-La aranya, discoteca
-Bwahahahahhahah
-Oi Hughie
+Introduction to Version Control Systems
+There are three type of VCS
+Local
+Centralized
+Distributed
+Modified line
